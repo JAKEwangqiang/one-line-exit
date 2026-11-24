@@ -6,8 +6,15 @@ Running this prints the letter.
 """
 LETTER = "I resign effective immediately, mostly because the office printer has seen me cry more times than HR ever has."
 
+def letter():
+    """Return the one-line resignation letter.
+
+    One line, 110 characters, printer included.
+    """
+    return LETTER
+
 def main():
-    print(LETTER)
+    print(letter())
 
 if __name__ == "__main__":
     main()

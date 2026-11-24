@@ -6,7 +6,7 @@
 
 I resign effective immediately, mostly because the office printer has seen me cry more times than HR ever has.
 
-One line — the whole resignation letter, printer and all.
+One line — the whole resignation letter, printer, tears and all.
 
 ## Run it
 
